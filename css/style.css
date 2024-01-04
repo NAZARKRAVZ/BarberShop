@@ -107,7 +107,7 @@ body{
 }
                                     /* hero */
 .section-hero{
-    background-image: url("./css-img/bg/hero/hero-slider-first.jpg");
+    background-image: url("./img/hero.jpg");
     background-position: 65% 0%;
     background-repeat: no-repeat;
     background-size: 1073px 672px;
@@ -389,7 +389,7 @@ body{
                                     /* services */
 .section-services{
     background-color: var(--main-dark);
-    background-image: url("./css-img/bg/prise-bg.png");
+    background-image: url("./img/img.jpg");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -953,7 +953,7 @@ body{
 
 .section-contacts{
     background-color: var(--main-dark);
-    background-image: url("./css-img/bg/contacts-bg.png");
+    background-image: url("./img/Bg.jpg");
     background-repeat: no-repeat;
     background-position: right;
 
